@@ -67,8 +67,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="index.html" />
-    <Content Include="scripts\script.js" />
+    <Content Include="mapir.html" />
+    <Content Include="neshan.html" />
+    <Content Include="scripts\mapir.js" />
+    <Content Include="scripts\neshan.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
